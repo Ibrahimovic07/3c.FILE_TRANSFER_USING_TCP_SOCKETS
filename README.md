@@ -1,7 +1,10 @@
 # 3-C : CREATION FOR FILE TRANSFER USING TCP SOCKETS  
  
-### NAME: Mohammed ibrahim mn
-### ROLL NO : 212223100034
+## NAME: Mohammed ibrahim mn
+## ROLL NO : 212223100034
+## Date : 7/10/2024
+
+
 
 ## AIM:
 To write a python program for creating File Transfer using TCP Sockets Links.
